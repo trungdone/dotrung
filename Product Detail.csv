@@ -1,0 +1,51 @@
+ProductID,ProductName,ProductGroupID,Price,StockQuantity,Description,SKU,Manufacturer,WarrantyPeriod,Dimensions,Weight,Color
+1,Smartphone A,1,500,100,"High-end smartphone with advanced features","SKU001","Manufacturer X",12 months,"5.8 x 2.8 x 0.3 inches",5.5 oz,Black
+2,Smartwatch B,2,250,50,"Fitness tracker with heart rate monitor","SKU002","Manufacturer Y",24 months,"1.5 x 1.5 x 0.4 inches",1.2 oz,Blue
+3,Laptop C,3,1200,30,"Powerful laptop for professionals","SKU003","Manufacturer Z",36 months,"14.1 x 9.7 x 0.7 inches",4.3 lbs,Silver
+4,Tablet D,4,800,80,"Compact tablet with high-resolution display","SKU004","Manufacturer X",12 months,"9.7 x 6.5 x 0.3 inches",1.0 lbs,White
+5,Headphones E,5,150,150,"Wireless headphones with noise cancellation","SKU005","Manufacturer W",18 months,"7.8 x 6.9 x 3.2 inches",0.5 lbs,Black
+6,Smart Speaker F,6,100,200,"Voice-controlled smart speaker","SKU006","Manufacturer V",12 months,"3.5 x 3.5 x 6.3 inches",2.1 lbs,Gray
+7,TV G,7,1500,20,"4K Ultra HD Smart TV","SKU007","Manufacturer U",36 months,"45.2 x 9.8 x 28.5 inches",42.5 lbs,Black
+8,Printer H,8,300,40,"All-in-one printer for home office","SKU008","Manufacturer T",24 months,"17.3 x 13.4 x 7.5 inches",15.0 lbs,White
+9,Camera I,9,700,25,"Mirrorless camera with 24MP sensor","SKU009","Manufacturer S",24 months,"4.7 x 2.9 x 2.3 inches",1.2 lbs,Silver
+10,Router J,10,80,120,"Wireless router for high-speed internet","SKU010","Manufacturer R",12 months,"8.9 x 6.2 x 1.5 inches",0.9 lbs,Black
+11,Keyboard K,11,50,180,"Mechanical gaming keyboard","SKU011","Manufacturer Q",12 months,"17.4 x 5.1 x 1.4 inches",2.4 lbs,RGB
+12,Mouse L,12,30,250,"Wireless ergonomic mouse","SKU012","Manufacturer P",12 months,"4.5 x 2.4 x 1.3 inches",0.3 lbs,Black
+13,External Hard Drive M,13,120,100,"Portable external hard drive, 1TB","SKU013","Manufacturer O",24 months,"4.6 x 3.2 x 0.6 inches",0.4 lbs,Black
+14,Monitor N,14,400,35,"27-inch 4K monitor","SKU014","Manufacturer N",36 months,"24.2 x 15.7 x 9.3 inches",12.1 lbs,Black
+15,Scanner O,15,200,60,"High-speed document scanner","SKU015","Manufacturer M",24 months,"11.7 x 6.1 x 6.6 inches",3.8 lbs,White
+16,Projector P,16,600,15,"HD projector with HDMI input","SKU016","Manufacturer L",36 months,"11.9 x 9.6 x 4.3 inches",5.8 lbs,Black
+17,Smart Thermostat Q,17,180,90,"Wi-Fi enabled smart thermostat","SKU017","Manufacturer K",24 months,"3.3 x 3.3 x 1.2 inches",0.8 lbs,Silver
+18,Smart Lock R,18,120,70,"Keyless smart lock with app control","SKU018","Manufacturer J",24 months,"3.5 x 7.1 x 1.0 inches",1.2 lbs,Black
+19,Blender S,19,80,110,"High-power blender for smoothies","SKU019","Manufacturer I",12 months,"8.0 x 7.0 x 15.5 inches",7.0 lbs,Red
+20,Coffee Maker T,20,100,130,"Programmable coffee maker with grinder","SKU020","Manufacturer H",12 months,"11.3 x 9.2 x 15.1 inches",8.5 lbs,Black
+21,Wireless Earbuds U,5,80,200,"Bluetooth earbuds with noise isolation","SKU021","Manufacturer G",12 months,"2.0 x 1.5 x 1.0 inches",0.2 lbs,White
+22,Gaming Console V,6,400,50,"Next-gen gaming console","SKU022","Manufacturer F",24 months,"11.8 x 9.0 x 2.5 inches",5.0 lbs,Black
+23,Smart Scale W,7,60,150,"Digital bathroom scale with app","SKU023","Manufacturer E",12 months,"11.0 x 11.0 x 1.0 inches",3.0 lbs,White
+24,Robot Vacuum X,8,300,30,"Robotic vacuum cleaner with smart navigation","SKU024","Manufacturer D",24 months,"13.8 x 13.8 x 3.8 inches",7.0 lbs,Gray
+25,Electric Toothbrush Y,9,50,180,"Rechargeable electric toothbrush","SKU025","Manufacturer C",12 months,"9.0 x 1.0 x 1.0 inches",0.5 lbs,Blue
+26,Bluetooth Speaker Z,10,70,220,"Portable Bluetooth speaker","SKU026","Manufacturer B",18 months,"7.0 x 3.0 x 2.5 inches",1.0 lbs,Red
+27,Home Security Camera AA,11,100,120,"Indoor security camera with motion detection","SKU027","Manufacturer A",24 months,"3.0 x 3.0 x 4.0 inches",0.5 lbs,Black
+28,External SSD AB,13,150,80,"Portable external SSD, 500GB","SKU028","Manufacturer O",36 months,"4.0 x 2.5 x 0.4 inches",0.2 lbs,Black
+29,Wireless Mouse AC,12,25,300,"Compact wireless mouse","SKU029","Manufacturer P",12 months,"4.3 x 2.5 x 1.4 inches",0.3 lbs,Gray
+30,Standing Desk AD,15,400,40,"Adjustable standing desk converter","SKU030","Manufacturer Q",24 months,"32.0 x 22.0 x 0.5 inches",20.0 lbs,Black
+31,Electric Kettle AE,20,35,250,"Stainless steel electric kettle","SKU031","Manufacturer R",12 months,"9.0 x 6.0 x 8.0 inches",2.0 lbs,Silver
+32,Air Purifier AF,17,120,100,"HEPA air purifier for allergies","SKU032","Manufacturer S",24 months,"10.0 x 10.0 x 15.0 inches",8.0 lbs,White
+33,Portable Charger AG,13,40,200,"Portable power bank, 10000mAh","SKU033","Manufacturer T",18 months,"5.0 x 3.0 x 0.5 inches",0.5 lbs,Black
+34,Wireless Keyboard AH,11,60,180,"Slim wireless keyboard","SKU034","Manufacturer U",12 months,"14.0 x 5.0 x 0.5 inches",1.0 lbs,Black
+35,Coffee Grinder AI,19,50,220,"Electric coffee grinder","SKU035","Manufacturer V",12 months,"8.0 x 5.0 x 5.0 inches",3.0 lbs,Black
+36,Bluetooth Headset AJ,5,40,300,"Bluetooth headset with mic","SKU036","Manufacturer W",12 months,"2.0 x 1.5 x 0.8 inches",0.3 lbs,Black
+37,Smartwatch AK,2,300,60,"Premium smartwatch with fitness tracking","SKU037","Manufacturer X",24 months,"1.7 x 1.7 x 0.4 inches",1.1 oz,Black
+38,Portable Speaker AL,10,50,180,"Waterproof portable speaker","SKU038","Manufacturer Y",18 months,"6.0 x 3.0 x 2.0 inches",0.8 lbs,Blue
+39,Wireless Router AM,10,80,150,"Dual-band wireless router","SKU039","Manufacturer Z",12 months,"8.5 x 6.0 x 1.5 inches",1.1 lbs,Black
+40,Smart Plug AN,18,20,250,"Wi-Fi smart plug with app control","SKU040","Manufacturer A",12 months,"2.0 x 2.0 x 1.0 inches",0.2 lbs,White
+41,LED Desk Lamp AO,15,30,200,"Adjustable LED desk lamp","SKU041","Manufacturer B",12 months,"5.0 x 5.0 x 15.0 inches",2.0 lbs,Silver
+42,Handheld Vacuum AP,8,70,120,"Cordless handheld vacuum","SKU042","Manufacturer C",24 months,"16.0 x 6.0 x 5.0 inches",3.0 lbs,Red
+43,Bluetooth Earphones AQ,5,50,180,"Sweatproof Bluetooth earphones","SKU043","Manufacturer D",12 months,"2.5 x 1.0 x 1.0 inches",0.3 lbs,Black
+44,Smart Doorbell AR,11,200,40,"Video doorbell with night vision","SKU044","Manufacturer E",24 months,"3.0 x 3.0 x 1.0 inches",0.5 lbs,Silver
+45,Electric Shaver AS,9,80,100,"Men's electric shaver","SKU045","Manufacturer F",24 months,"6.0 x 3.0 x 2.0 inches",0.8 lbs,Black
+46,Power Strip AT,18,25,300,"Surge protector power strip","SKU046","Manufacturer G",12 months,"10.0 x 2.0 x 1.5 inches",1.5 lbs,White
+47,Bluetooth Car Kit AU,10,30,250,"Bluetooth car adapter with hands-free calling","SKU047","Manufacturer H",12 months,"3.0 x 3.0 x 0.5 inches",0.1 lbs,Black
+48,Electric Fan AV,16,60,150,"Oscillating tower fan","SKU048","Manufacturer I",24 months,"12.0 x 12.0 x 36.0 inches",7.0 lbs,White
+49,Wireless Security Camera AW,11,120,80,"Outdoor wireless security camera","SKU049","Manufacturer J",24 months,"4.0 x 4.0 x 6.0 inches",1.0 lbs,Black
+50,USB Flash Drive AX,13,20,400,"Portable USB flash drive, 128GB","SKU050","Manufacturer K",36 months,"2.0 x 0.8 x 0.4 inches",0.1 lbs,Red

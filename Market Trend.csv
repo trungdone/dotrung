@@ -1,0 +1,101 @@
+TrendID,ProductGroupID,TrendDescription,TrendStartDate,TrendEndDate,MarketRegion,TrendType,ImpactFactor,DataSource,CreatedBy,CreatedDate,LastUpdatedDate
+1,4,"Decline in sales of traditional ovens",2023-01-01,2023-12-31,"North America","Decline",Medium,"Market analysis","Admin",2023-01-01,2023-06-20
+2,6,"Continuous growth in smartphone accessories",2023-01-01,2023-12-31,"Asia","Growth",High,"Customer feedback","Admin",2023-01-02,2023-06-20
+3,8,"Steady demand for premium office supplies",2023-01-01,2023-12-31,"Europe","Steady",Medium,"Sales data","Admin",2023-01-03,2023-06-20
+4,9,"Rising sales of personal care electronics",2023-01-01,2023-12-31,"Asia","Growth",Medium,"Market analysis","Admin",2023-01-04,2023-06-20
+5,2,"Increase in sales of wireless speakers",2023-01-01,2023-12-31,"Europe","Growth",Medium,"Market analysis","Admin",2023-01-05,2023-06-20
+6,5,"Seasonal spike in smart thermostat sales",2023-01-01,2023-12-31,"Europe","Seasonal",High,"Sales data","Admin",2023-01-06,2023-06-20
+7,7,"Increasing interest in home fitness equipment",2023-01-01,2023-12-31,"North America","Growth",High,"Customer feedback","Admin",2023-01-07,2023-06-20
+8,3,"Growing popularity of gaming laptops",2023-01-01,2023-12-31,"Asia","Growth",High,"Customer feedback","Admin",2023-01-08,2023-06-20
+9,10,"Increase in automotive gadgets sales",2023-01-01,2023-12-31,"North America","Growth",High,"Customer feedback","Admin",2023-01-09,2023-06-20
+10,1,"Rise in demand for 4K televisions",2023-01-01,2023-12-31,"North America","Seasonal",High,"Sales data","Admin",2023-01-10,2023-06-20
+11,4,"Seasonal trends in microwave oven sales",2023-01-01,2023-12-31,"Europe","Seasonal",Medium,"Sales data","Admin",2023-01-11,2023-06-20
+12,6,"Increase in mobile phone accessory sales",2023-01-01,2023-12-31,"North America","Growth",Medium,"Customer feedback","Admin",2023-01-12,2023-06-20
+13,8,"Rise in demand for ergonomic office chairs",2023-01-01,2023-12-31,"Asia","Growth",High,"Market analysis","Admin",2023-01-13,2023-06-20
+14,9,"Seasonal trends in skincare devices",2023-01-01,2023-12-31,"North America","Seasonal",Medium,"Customer feedback","Admin",2023-01-14,2023-06-20
+15,2,"Popularity of multi-room audio systems",2023-01-01,2023-12-31,"Asia","Seasonal",Medium,"Market analysis","Admin",2023-01-15,2023-06-20
+16,10,"Growth in automotive GPS navigation systems",2023-01-01,2023-12-31,"Europe","Growth",High,"Sales data","Admin",2023-01-16,2023-06-20
+17,1,"Trending OLED TVs in high demand",2023-01-01,2023-12-31,"Europe","Growth",High,"Sales data","Admin",2023-01-17,2023-06-20
+18,3,"Decline in sales of traditional desktop PCs",2023-01-01,2023-12-31,"North America","Decline",High,"Customer feedback","Admin",2023-01-18,2023-06-20
+19,5,"Growth in demand for smart home hubs",2023-01-01,2023-12-31,"Asia","Growth",High,"Market analysis","Admin",2023-01-19,2023-06-20
+20,7,"Shift towards home gym equipment",2023-01-01,2023-12-31,"Europe","Seasonal",High,"Sales data","Admin",2023-01-20,2023-06-20
+21,8,"Increase in demand for ergonomic office chairs",2023-01-01,2023-12-31,"Asia","Growth",High,"Market analysis","Admin",2023-01-21,2023-06-20
+22,4,"Decline in sales of traditional ovens",2023-01-01,2023-12-31,"North America","Decline",Medium,"Market analysis","Admin",2023-01-22,2023-06-20
+23,2,"Popularity of multi-room audio systems",2023-01-01,2023-12-31,"Asia","Seasonal",Medium,"Customer feedback","Admin",2023-01-23,2023-06-20
+24,5,"Growth in demand for smart home hubs",2023-01-01,2023-12-31,"Europe","Growth",High,"Sales data","Admin",2023-01-24,2023-06-20
+25,1,"Rise in demand for 4K televisions",2023-01-01,2023-12-31,"North America","Seasonal",High,"Sales data","Admin",2023-01-25,2023-06-20
+26,6,"Increase in mobile phone accessory sales",2023-01-01,2023-12-31,"North America","Growth",Medium,"Market analysis","Admin",2023-01-26,2023-06-20
+27,10,"Growth in automotive GPS navigation systems",2023-01-01,2023-12-31,"Europe","Growth",High,"Customer feedback","Admin",2023-01-27,2023-06-20
+28,7,"Shift towards home gym equipment",2023-01-01,2023-12-31,"Europe","Seasonal",High,"Sales data","Admin",2023-01-28,2023-06-20
+29,3,"Decline in sales of traditional desktop PCs",2023-01-01,2023-12-31,"North America","Decline",High,"Market analysis","Admin",2023-01-29,2023-06-20
+30,9,"Rising sales of personal care electronics",2023-01-01,2023-12-31,"Asia","Growth",Medium,"Customer feedback","Admin",2023-01-30,2023-06-20
+31,2,"Increase in sales of wireless speakers",2023-01-01,2023-12-31,"Europe","Growth",Medium,"Market analysis","Admin",2023-01-31,2023-06-20
+32,1,"Trending OLED TVs in high demand",2023-01-01,2023-12-31,"Europe","Growth",High,"Sales data","Admin",2023-02-01,2023-06-20
+33,5,"Seasonal spike in smart thermostat sales",2023-01-01,2023-12-31,"Europe","Seasonal",High,"Market analysis","Admin",2023-02-02,2023-06-20
+34,6,"Continuous growth in smartphone accessories",2023-01-01,2023-12-31,"Asia","Growth",High,"Customer feedback","Admin",2023-02-03,2023-06-20
+35,8,"Steady demand for premium office supplies",2023-01-01,2023-12-31,"Europe","Steady",Medium,"Sales data","Admin",2023-02-04,2023-06-20
+36,10,"Increase in automotive gadgets sales",2023-01-01,2023-12-31,"North America","Growth",High,"Customer feedback","Admin",2023-02-05,2023-06-20
+37,7,"Increasing interest in home fitness equipment",2023-01-01,2023-12-31,"North America","Growth",High,"Sales data","Admin",2023-02-06,2023-06-20
+38,9,"Seasonal trends in skincare devices",2023-01-01,2023-12-31,"North America","Seasonal",Medium,"Market analysis","Admin",2023-02-07,2023-06-20
+39,4,"Seasonal trends in microwave oven sales",2023-01-01,2023-12-31,"Europe","Seasonal",Medium,"Customer feedback","Admin",2023-02-08,2023-06-20
+40,3,"Growing popularity of gaming laptops",2023-01-01,2023-12-31,"Asia","Growth",High,"Sales data","Admin",2023-02-09,2023-06-20
+41,6,"Increase in mobile phone accessory sales",2023-01-01,2023-12-31,"North America","Growth",Medium,"Customer feedback","Admin",2023-02-10,2023-06-20
+42,8,"Rise in demand for ergonomic office chairs",2023-01-01,2023-12-31,"Asia","Growth",High,"Market analysis","Admin",2023-02-11,2023-06-20
+43,1,"Rise in demand for 4K televisions",2023-01-01,2023-12-31,"North America","Seasonal",High,"Customer feedback","Admin",2023-02-12,2023-06-20
+44,10,"Growth in automotive GPS navigation systems",2023-01-01,2023-12-31,"Europe","Growth",High,"Sales data","Admin",2023-02-13,2023-06-20
+45,2,"Popularity of multi-room audio systems",2023-01-01,2023-12-31,"Asia","Seasonal",Medium,"Market analysis","Admin",2023-02-14,2023-06-20
+46,5,"Growth in demand for smart home hubs",2023-01-01,2023-12-31,"Europe","Growth",High,"Customer feedback","Admin",2023-02-15,2023-06-20
+47,7,"Shift towards home gym equipment",2023-01-01,2023-12-31,"Europe","Seasonal",High,"Market analysis","Admin",2023-02-16,2023-06-20
+48,3,"Decline in sales of traditional desktop PCs",2023-01-01,2023-12-31,"North America","Decline",High,"Sales data","Admin",2023-02-17,2023-06-20
+49,9,"Rising sales of personal care electronics",2023-01-01,2023-12-31,"Asia","Growth",Medium,"Customer feedback","Admin",2023-02-18,2023-06-20
+50,4,"Decline in sales of traditional ovens",2023-01-01,2023-12-31,"North America","Decline",Medium,"Market analysis","Admin",2023-02-19,2023-06-20
+51,6,"Continuous growth in smartphone accessories",2023-01-01,2023-12-31,"Asia","Growth",High,"Sales data","Admin",2023-02-20,2023-06-20
+52,8,"Steady demand for premium office supplies",2023-01-01,2023-12-31,"Europe","Steady",Medium,"Customer feedback","Admin",2023-02-21,2023-06-20
+53,2,"Increase in sales of wireless speakers",2023-01-01,2023-12-31,"Europe","Growth",Medium,"Market analysis","Admin",2023-02-22,2023-06-20
+54,5,"Seasonal spike in smart thermostat sales",2023-01-01,2023-12-31,"Europe","Seasonal",High,"Sales data","Admin",2023-02-23,2023-06-20
+55,1,"Trending OLED TVs in high demand",2023-01-01,2023-12-31,"Europe","Growth",High,"Market analysis","Admin",2023-02-24,2023-06-20
+56,10,"Increase in automotive gadgets sales",2023-01-01,2023-12-31,"North America","Growth",High,"Customer feedback","Admin",2023-02-25,2023-06-20
+57,7,"Increasing interest in home fitness equipment",2023-01-01,2023-12-31,"North America","Growth",High,"Sales data","Admin",2023-02-26,2023-06-20
+58,9,"Seasonal trends in skincare devices",2023-01-01,2023-12-31,"North America","Seasonal",Medium,"Market analysis","Admin",2023-02-27,2023-06-20
+59,3,"Growing popularity of gaming laptops",2023-01-01,2023-12-31,"Asia","Growth",High,"Customer feedback","Admin",2023-02-28,2023-06-20
+60,6,"Increase in mobile phone accessory sales",2023-01-01,2023-12-31,"North America","Growth",Medium,"Sales data","Admin",2023-03-01,2023-06-20
+61,8,"Rise in demand for ergonomic office chairs",2023-01-01,2023-12-31,"Asia","Growth",High,"Market analysis","Admin",2023-03-02,2023-06-20
+62,4,"Seasonal trends in microwave oven sales",2023-01-01,2023-12-31,"Europe","Seasonal",Medium,"Customer feedback","Admin",2023-03-03,2023-06-20
+63,2,"Popularity of multi-room audio systems",2023-01-01,2023-12-31,"Asia","Seasonal",Medium,"Market analysis","Admin",2023-03-04,2023-06-20
+64,5,"Growth in demand for smart home hubs",2023-01-01,2023-12-31,"Europe","Growth",High,"Sales data","Admin",2023-03-05,2023-06-20
+65,1,"Rise in demand for 4K televisions",2023-01-01,2023-12-31,"North America","Seasonal",High,"Customer feedback","Admin",2023-03-06,2023-06-20
+66,6,"Increase in mobile phone accessory sales",2023-01-01,2023-12-31,"North America","Growth",Medium,"Customer feedback","Admin",2023-03-07,2023-06-20
+67,10,"Growth in automotive GPS navigation systems",2023-01-01,2023-12-31,"Europe","Growth",High,"Sales data","Admin",2023-03-08,2023-06-20
+68,7,"Shift towards home gym equipment",2023-01-01,2023-12-31,"Europe","Seasonal",High,"Market analysis","Admin",2023-03-09,2023-06-20
+69,3,"Decline in sales of traditional desktop PCs",2023-01-01,2023-12-31,"North America","Decline",High,"Sales data","Admin",2023-03-10,2023-06-20
+70,9,"Rising sales of personal care electronics",2023-01-01,2023-12-31,"Asia","Growth",Medium,"Customer feedback","Admin",2023-03-11,2023-06-20
+71,2,"Increase in sales of wireless speakers",2023-01-01,2023-12-31,"Europe","Growth",Medium,"Market analysis","Admin",2023-03-12,2023-06-20
+72,5,"Seasonal spike in smart thermostat sales",2023-01-01,2023-12-31,"Europe","Seasonal",High,"Sales data","Admin",2023-03-13,2023-06-20
+73,1,"Trending OLED TVs in high demand",2023-01-01,2023-12-31,"Europe","Growth",High,"Market analysis","Admin",2023-03-14,2023-06-20
+74,10,"Increase in automotive gadgets sales",2023-01-01,2023-12-31,"North America","Growth",High,"Customer feedback","Admin",2023-03-15,2023-06-20
+75,7,"Increasing interest in home fitness equipment",2023-01-01,2023-12-31,"North America","Growth",High,"Sales data","Admin",2023-03-16,2023-06-20
+76,9,"Seasonal trends in skincare devices",2023-01-01,2023-12-31,"North America","Seasonal",Medium,"Market analysis","Admin",2023-03-17,2023-06-20
+77,4,"Seasonal trends in microwave oven sales",2023-01-01,2023-12-31,"Europe","Seasonal",Medium,"Customer feedback","Admin",2023-03-18,2023-06-20
+78,3,"Growing popularity of gaming laptops",2023-01-01,2023-12-31,"Asia","Growth",High,"Customer feedback","Admin",2023-03-19,2023-06-20
+79,6,"Increase in mobile phone accessory sales",2023-01-01,2023-12-31,"North America","Growth",Medium,"Sales data","Admin",2023-03-20,2023-06-20
+80,8,"Rise in demand for ergonomic office chairs",2023-01-01,2023-12-31,"Asia","Growth",High,"Market analysis","Admin",2023-03-21,2023-06-20
+81,5,"Increase in smart home hubs sales",2023-01-01,2023-12-31,"North America","Growth",Medium,"Market analysis","Admin",2023-03-22,2023-06-20
+82,3,"Decline in gaming laptops sales",2023-01-01,2023-12-31,"Europe","Decline",High,"Sales data","Admin",2023-03-23,2023-06-20
+83,7,"Seasonal demand for home fitness equipment",2023-01-01,2023-12-31,"Asia","Seasonal",High,"Customer feedback","Admin",2023-03-24,2023-06-20
+84,2,"Rise in wireless speakers sales",2023-01-01,2023-12-31,"Europe","Growth",High,"Market analysis","Admin",2023-03-25,2023-06-20
+85,9,"Increase in personal care electronics sales",2023-01-01,2023-12-31,"North America","Growth",Medium,"Sales data","Admin",2023-03-26,2023-06-20
+86,1,"Popularity of OLED TVs",2023-01-01,2023-12-31,"Asia","Seasonal",High,"Customer feedback","Admin",2023-03-27,2023-06-20
+87,6,"Growth in mobile phone accessory sales",2023-01-01,2023-12-31,"Europe","Growth",Medium,"Market analysis","Admin",2023-03-28,2023-06-20
+88,10,"Increase in automotive gadgets sales",2023-01-01,2023-12-31,"North America","Growth",High,"Sales data","Admin",2023-03-29,2023-06-20
+89,4,"Decline in microwave oven sales",2023-01-01,2023-12-31,"Europe","Decline",Medium,"Customer feedback","Admin",2023-03-30,2023-06-20
+90,8,"Steady demand for ergonomic office chairs",2023-01-01,2023-12-31,"Asia","Steady",High,"Market analysis","Admin",2023-03-31,2023-06-20
+91,1,"Trending OLED TVs in high demand",2023-01-01,2023-12-31,"Europe","Growth",High,"Sales data","Admin",2023-04-01,2023-06-20
+92,6,"Increase in mobile phone accessory sales",2023-01-01,2023-12-31,"North America","Growth",Medium,"Customer feedback","Admin",2023-04-02,2023-06-20
+93,10,"Growth in automotive GPS navigation systems",2023-01-01,2023-12-31,"Europe","Growth",High,"Market analysis","Admin",2023-04-03,2023-06-20
+94,7,"Shift towards home gym equipment",2023-01-01,2023-12-31,"Europe","Seasonal",High,"Sales data","Admin",2023-04-04,2023-06-20
+95,3,"Decline in sales of traditional desktop PCs",2023-01-01,2023-12-31,"North America","Decline",High,"Customer feedback","Admin",2023-04-05,2023-06-20
+96,9,"Rising sales of personal care electronics",2023-01-01,2023-12-31,"Asia","Growth",Medium,"Market analysis","Admin",2023-04-06,2023-06-20
+97,2,"Increase in sales of wireless speakers",2023-01-01,2023-12-31,"Europe","Growth",Medium,"Sales data","Admin",2023-04-07,2023-06-20
+98,5,"Seasonal spike in smart thermostat sales",2023-01-01,2023-12-31,"Europe","Seasonal",High,"Customer feedback","Admin",2023-04-08,2023-06-20
+99,1,"Trending OLED TVs in high demand",2023-01-01,2023-12-31,"Europe","Growth",High,"Market analysis","Admin",2023-04-09,2023-06-20
+100,10,"Increase in automotive gadgets sales",2023-01-01,2023-12-31,"North America","Growth",High,"Sales data","Admin",2023-04-10,2023-06-20

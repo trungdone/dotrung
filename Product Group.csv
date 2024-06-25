@@ -1,0 +1,11 @@
+ProductGroupID,ProductGroupName,Category,SubCategory,Description,ParentGroupID,CreatedDate,LastUpdatedDate,IsActive,DisplayOrder,GroupManager
+1,Televisions,Electronics,TVs,"Various types of televisions including LED, OLED, and Smart TVs",NULL,2023-01-01,2023-06-20,1,1,"John Doe"
+2,Audio,Electronics,Audio Systems,"Audio equipment such as headphones, speakers, and soundbars",NULL,2023-01-02,2023-06-20,1,2,"Jane Smith"
+3,Computers,Electronics,Laptops,"Laptops, desktops, and computer peripherals",NULL,2023-01-03,2023-06-20,1,3,"Michael Brown"
+4,Home Appliances,Electronics,Kitchen Appliances,"Large and small kitchen appliances for home use",NULL,2023-01-04,2023-06-20,1,4,"Emily Johnson"
+5,Smart Devices,Electronics,Smart Home,"Smart home devices like smart lights, thermostats, and security cameras",NULL,2023-01-05,2023-06-20,1,5,"David Wilson"
+6,Mobile Phones,Electronics,Smartphones,"Mobile phones and accessories",NULL,2023-01-06,2023-06-20,1,6,"Sarah Lee"
+7,Fitness & Health,Sports & Outdoors,Fitness Equipment,"Fitness trackers, exercise machines, and health monitors",NULL,2023-01-07,2023-06-20,1,7,"Kevin Martinez"
+8,Office Supplies,Office Supplies,Stationery,"Office supplies and stationery items",NULL,2023-01-08,2023-06-20,1,8,"Jessica Davis"
+9,Personal Care,Health & Beauty,Personal Care,"Personal care products like electric toothbrushes and grooming kits",NULL,2023-01-09,2023-06-20,1,9,"Andrew Thompson"
+10,Car Accessories,Automotive,Car Electronics,"Electronic accessories for cars such as car chargers and Bluetooth kits",NULL,2023-01-10,2023-06-20,1,10,"Emma Garcia"

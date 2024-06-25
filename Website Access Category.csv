@@ -1,0 +1,201 @@
+AccessID,CustomerID,CategoryAccessed,AccessDate,Duration,IPAddress,DeviceType,Browser,OperatingSystem,ReferrerURL,ActionTaken,PageViews,Relationships
+1,3,"Electronics",2023-06-01,120,192.168.1.1,Desktop,Chrome,Windows 10,https://www.google.com,Logged In,5,Interested
+2,5,"Home Appliances",2023-06-02,180,10.0.0.1,Mobile,Safari,iOS 15,https://www.example.com,Added to Cart,3,Customer
+3,2,"Electronics",2023-06-03,90,172.16.0.1,Tablet,Firefox,Android 12,https://www.bing.com,Viewed Product,7,Interested
+4,1,"Fashion",2023-06-04,150,192.168.0.1,Desktop,Edge,Windows 11,https://www.yahoo.com,Logged In,4,Customer
+5,4,"Electronics",2023-06-05,100,192.168.2.1,Mobile,Chrome,Android 11,https://www.duckduckgo.com,Added to Wishlist,2,Interested
+6,6,"Home Appliances",2023-06-06,80,10.0.0.2,Desktop,Firefox,Windows 10,https://www.example.com,Logged In,6,Customer
+7,8,"Fashion",2023-06-07,200,192.168.0.2,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,4,Customer
+8,7,"Electronics",2023-06-08,110,192.168.1.2,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,5,Interested
+9,9,"Electronics",2023-06-09,95,192.168.2.2,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+10,10,"Home Appliances",2023-06-10,130,192.168.1.3,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Cart,6,Customer
+11,12,"Fashion",2023-06-11,145,10.0.0.3,Desktop,Chrome,Windows 10,https://www.duckduckgo.com,Logged In,2,Interested
+12,11,"Electronics",2023-06-12,75,192.168.1.4,Mobile,Safari,iOS 15,https://www.example.com,Viewed Product,8,Interested
+13,13,"Home Appliances",2023-06-13,160,192.168.2.3,Tablet,Firefox,Android 12,https://www.google.com,Added to Wishlist,5,Customer
+14,15,"Fashion",2023-06-14,180,192.168.1.5,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+15,14,"Electronics",2023-06-15,105,192.168.0.3,Mobile,Chrome,Android 11,https://www.yahoo.com,Added to Cart,4,Interested
+16,16,"Electronics",2023-06-16,95,192.168.1.6,Desktop,Firefox,Windows 10,https://www.duckduckgo.com,Logged In,6,Customer
+17,18,"Home Appliances",2023-06-17,115,10.0.0.4,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,2,Customer
+18,17,"Fashion",2023-06-18,190,192.168.1.7,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,7,Interested
+19,19,"Electronics",2023-06-19,85,192.168.2.4,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+20,20,"Electronics",2023-06-20,125,192.168.1.8,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Wishlist,5,Interested
+21,3,"Fashion",2023-06-21,130,192.168.1.1,Desktop,Chrome,Windows 10,https://www.google.com,Logged In,5,Customer
+22,5,"Electronics",2023-06-22,160,10.0.0.1,Mobile,Safari,iOS 15,https://www.example.com,Added to Cart,3,Interested
+23,2,"Home Appliances",2023-06-23,90,172.16.0.1,Tablet,Firefox,Android 12,https://www.bing.com,Viewed Product,7,Interested
+24,1,"Electronics",2023-06-24,120,192.168.0.1,Desktop,Edge,Windows 11,https://www.yahoo.com,Logged In,4,Customer
+25,4,"Fashion",2023-06-25,140,192.168.2.1,Mobile,Chrome,Android 11,https://www.duckduckgo.com,Added to Wishlist,2,Interested
+26,6,"Electronics",2023-06-26,110,10.0.0.2,Desktop,Firefox,Windows 10,https://www.example.com,Logged In,6,Customer
+27,8,"Home Appliances",2023-06-27,180,192.168.0.2,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,4,Customer
+28,7,"Fashion",2023-06-28,190,192.168.1.2,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,5,Interested
+29,9,"Electronics",2023-06-29,95,192.168.2.2,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+30,10,"Fashion",2023-06-30,110,192.168.1.3,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Cart,6,Customer
+31,12,"Home Appliances",2023-07-01,170,10.0.0.3,Desktop,Chrome,Windows 10,https://www.duckduckgo.com,Logged In,2,Interested
+32,11,"Electronics",2023-07-02,75,192.168.1.4,Mobile,Safari,iOS 15,https://www.example.com,Viewed Product,8,Interested
+33,13,"Fashion",2023-07-03,200,192.168.2.3,Tablet,Firefox,Android 12,https://www.google.com,Added to Wishlist,5,Customer
+34,15,"Electronics",2023-07-04,180,192.168.1.5,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+35,14,"Fashion",2023-07-05,105,192.168.0.3,Mobile,Chrome,Android 11,https://www.yahoo.com,Added to Cart,4,Interested
+36,16,"Electronics",2023-07-06,95,192.168.1.6,Desktop,Firefox,Windows 10,https://www.duckduckgo.com,Logged In,6,Customer
+37,18,"Home Appliances",2023-07-07,120,10.0.0.4,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,2,Customer
+38,17,"Fashion",2023-07-08,160,192.168.1.7,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,7,Interested
+39,19,"Electronics",2023-07-09,85,192.168.2.4,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+40,20,"Fashion",2023-07-10,130,192.168.1.8,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Wishlist,5,Interested
+41,22,"Electronics",2023-07-11,160,10.0.0.5,Desktop,Chrome,Windows 10,https://www.google.com,Logged In,5,Customer
+42,24,"Home Appliances",2023-07-12,180,10.0.0.6,Mobile,Safari,iOS 15,https://www.example.com,Added to Cart,3,Interested
+43,21,"Electronics",2023-07-13,90,172.16.0.2,Tablet,Firefox,Android 12,https://www.bing.com,Viewed Product,7,Interested
+44,23,"Fashion",2023-07-14,150,192.168.0.2,Desktop,Edge,Windows 11,https://www.yahoo.com,Logged In,4,Customer
+45,25,"Electronics",2023-07-15,100,192.168.2.2,Mobile,Chrome,Android 11,https://www.duckduckgo.com,Added to Wishlist,2,Interested
+46,27,"Electronics",2023-07-16,120,10.0.0.7,Desktop,Firefox,Windows 10,https://www.example.com,Logged In,6,Customer
+47,29,"Home Appliances",2023-07-17,160,192.168.0.3,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,4,Customer
+48,28,"Fashion",2023-07-18,170,192.168.1.3,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,5,Interested
+49,30,"Electronics",2023-07-19,95,192.168.2.3,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+50,31,"Fashion",2023-07-20,110,192.168.1.4,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Cart,6,Customer
+51,33,"Home Appliances",2023-07-21,130,10.0.0.8,Desktop,Chrome,Windows 10,https://www.duckduckgo.com,Logged In,2,Interested
+52,32,"Electronics",2023-07-22,75,192.168.1.5,Mobile,Safari,iOS 15,https://www.example.com,Viewed Product,8,Interested
+53,34,"Fashion",2023-07-23,200,192.168.2.4,Tablet,Firefox,Android 12,https://www.google.com,Added to Wishlist,5,Customer
+54,36,"Electronics",2023-07-24,180,192.168.1.6,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+55,35,"Fashion",2023-07-25,105,192.168.0.4,Mobile,Chrome,Android 11,https://www.yahoo.com,Added to Cart,4,Interested
+56,37,"Electronics",2023-07-26,95,192.168.1.7,Desktop,Firefox,Windows 10,https://www.duckduckgo.com,Logged In,6,Customer
+57,39,"Home Appliances",2023-07-27,120,10.0.0.9,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,2,Customer
+58,38,"Fashion",2023-07-28,160,192.168.1.8,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,7,Interested
+59,40,"Electronics",2023-07-29,85,192.168.2.5,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+60,41,"Fashion",2023-07-30,130,192.168.1.9,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Wishlist,5,Interested
+61,43,"Electronics",2023-08-01,120,192.168.1.10,Desktop,Chrome,Windows 10,https://www.google.com,Logged In,5,Customer
+62,45,"Fashion",2023-08-02,160,10.0.0.10,Mobile,Safari,iOS 15,https://www.example.com,Added to Cart,3,Interested
+63,42,"Home Appliances",2023-08-03,90,172.16.0.3,Tablet,Firefox,Android 12,https://www.bing.com,Viewed Product,7,Interested
+64,41,"Electronics",2023-08-04,120,192.168.0.10,Desktop,Edge,Windows 11,https://www.yahoo.com,Logged In,4,Customer
+65,44,"Fashion",2023-08-05,140,192.168.2.10,Mobile,Chrome,Android 11,https://www.duckduckgo.com,Added to Wishlist,2,Interested
+66,46,"Electronics",2023-08-06,110,10.0.0.11,Desktop,Firefox,Windows 10,https://www.example.com,Logged In,6,Customer
+67,48,"Home Appliances",2023-08-07,180,192.168.0.11,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,4,Customer
+68,47,"Fashion",2023-08-08,190,192.168.1.11,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,5,Interested
+69,49,"Electronics",2023-08-09,95,192.168.2.11,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+70,50,"Fashion",2023-08-10,110,192.168.1.12,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Cart,6,Customer
+71,52,"Home Appliances",2023-08-11,170,10.0.0.12,Desktop,Chrome,Windows 10,https://www.duckduckgo.com,Logged In,2,Interested
+72,51,"Electronics",2023-08-12,75,192.168.1.13,Mobile,Safari,iOS 15,https://www.example.com,Viewed Product,8,Interested
+73,53,"Fashion",2023-08-13,200,192.168.2.12,Tablet,Firefox,Android 12,https://www.google.com,Added to Wishlist,5,Customer
+74,55,"Electronics",2023-08-14,180,192.168.1.14,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+75,54,"Fashion",2023-08-15,105,192.168.0.12,Mobile,Chrome,Android 11,https://www.yahoo.com,Added to Cart,4,Interested
+76,56,"Electronics",2023-08-16,95,192.168.1.15,Desktop,Firefox,Windows 10,https://www.duckduckgo.com,Logged In,6,Customer
+77,58,"Home Appliances",2023-08-17,120,10.0.0.13,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,2,Customer
+78,57,"Fashion",2023-08-18,160,192.168.1.16,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,7,Interested
+79,59,"Electronics",2023-08-19,85,192.168.2.13,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+80,60,"Fashion",2023-08-20,130,192.168.1.17,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Wishlist,5,Interested
+81,62,"Electronics",2023-08-21,160,10.0.0.14,Desktop,Chrome,Windows 10,https://www.google.com,Logged In,5,Customer
+82,64,"Home Appliances",2023-08-22,180,10.0.0.15,Mobile,Safari,iOS 15,https://www.example.com,Added to Cart,3,Interested
+83,61,"Electronics",2023-08-23,90,172.16.0.4,Tablet,Firefox,Android 12,https://www.bing.com,Viewed Product,7,Interested
+84,63,"Fashion",2023-08-24,150,192.168.0.13,Desktop,Edge,Windows 11,https://www.yahoo.com,Logged In,4,Customer
+85,65,"Electronics",2023-08-25,100,192.168.2.14,Mobile,Chrome,Android 11,https://www.duckduckgo.com,Added to Wishlist,2,Interested
+86,67,"Electronics",2023-08-26,120,10.0.0.16,Desktop,Firefox,Windows 10,https://www.example.com,Logged In,6,Customer
+87,69,"Home Appliances",2023-08-27,160,192.168.0.14,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,4,Customer
+88,68,"Fashion",2023-08-28,170,192.168.1.18,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,5,Interested
+89,70,"Electronics",2023-08-29,95,192.168.2.15,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+90,71,"Fashion",2023-08-30,110,192.168.1.19,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Cart,6,Customer
+91,73,"Home Appliances",2023-08-31,130,10.0.0.17,Desktop,Chrome,Windows 10,https://www.duckduckgo.com,Logged In,2,Interested
+92,72,"Electronics",2023-09-01,75,192.168.1.20,Mobile,Safari,iOS 15,https://www.example.com,Viewed Product,8,Interested
+93,74,"Fashion",2023-09-02,200,192.168.2.16,Tablet,Firefox,Android 12,https://www.google.com,Added to Wishlist,5,Customer
+94,76,"Electronics",2023-09-03,180,192.168.1.21,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+95,75,"Fashion",2023-09-04,105,192.168.0.15,Mobile,Chrome,Android 11,https://www.yahoo.com,Added to Cart,4,Interested
+96,77,"Electronics",2023-09-05,95,192.168.1.22,Desktop,Firefox,Windows 10,https://www.duckduckgo.com,Logged In,6,Customer
+97,79,"Home Appliances",2023-09-06,120,10.0.0.18,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,2,Customer
+98,78,"Fashion",2023-09-07,160,192.168.1.23,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,7,Interested
+99,80,"Electronics",2023-09-08,85,192.168.2.17,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+100,81,"Fashion",2023-09-09,130,192.168.1.24,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Wishlist,5,Interested
+101,83,"Electronics",2023-09-10,120,192.168.1.25,Desktop,Chrome,Windows 10,https://www.google.com,Logged In,5,Customer
+102,85,"Fashion",2023-09-11,160,10.0.0.19,Mobile,Safari,iOS 15,https://www.example.com,Added to Cart,3,Interested
+103,82,"Home Appliances",2023-09-12,90,172.16.0.5,Tablet,Firefox,Android 12,https://www.bing.com,Viewed Product,7,Interested
+104,81,"Electronics",2023-09-13,120,192.168.0.16,Desktop,Edge,Windows 11,https://www.yahoo.com,Logged In,4,Customer
+105,84,"Fashion",2023-09-14,140,192.168.2.18,Mobile,Chrome,Android 11,https://www.duckduckgo.com,Added to Wishlist,2,Interested
+106,86,"Electronics",2023-09-15,110,10.0.0.20,Desktop,Firefox,Windows 10,https://www.example.com,Logged In,6,Customer
+107,88,"Home Appliances",2023-09-16,180,192.168.0.17,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,4,Customer
+108,87,"Fashion",2023-09-17,190,192.168.1.26,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,5,Interested
+109,89,"Electronics",2023-09-18,95,192.168.2.19,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+110,90,"Fashion",2023-09-19,110,192.168.1.27,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Cart,6,Customer
+111,92,"Home Appliances",2023-09-20,170,10.0.0.21,Desktop,Chrome,Windows 10,https://www.duckduckgo.com,Logged In,2,Interested
+112,91,"Electronics",2023-09-21,75,192.168.1.28,Mobile,Safari,iOS 15,https://www.example.com,Viewed Product,8,Interested
+113,93,"Fashion",2023-09-22,200,192.168.2.20,Tablet,Firefox,Android 12,https://www.google.com,Added to Wishlist,5,Customer
+114,95,"Electronics",2023-09-23,180,192.168.1.29,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+115,94,"Fashion",2023-09-24,105,192.168.0.18,Mobile,Chrome,Android 11,https://www.yahoo.com,Added to Cart,4,Interested
+116,96,"Electronics",2023-09-25,95,192.168.1.30,Desktop,Firefox,Windows 10,https://www.duckduckgo.com,Logged In,6,Customer
+117,98,"Home Appliances",2023-09-26,120,10.0.0.22,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,2,Customer
+118,97,"Fashion",2023-09-27,160,192.168.1.31,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,7,Interested
+119,99,"Electronics",2023-09-28,85,192.168.2.21,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+120,100,"Fashion",2023-09-29,130,192.168.1.32,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Wishlist,5,Interested
+121,102,"Electronics",2023-09-30,160,10.0.0.23,Desktop,Chrome,Windows 10,https://www.google.com,Logged In,5,Customer
+122,104,"Home Appliances",2023-10-01,180,10.0.0.24,Mobile,Safari,iOS 15,https://www.example.com,Added to Cart,3,Interested
+123,101,"Electronics",2023-10-02,90,172.16.0.6,Tablet,Firefox,Android 12,https://www.bing.com,Viewed Product,7,Interested
+124,103,"Fashion",2023-10-03,150,192.168.0.19,Desktop,Edge,Windows 11,https://www.yahoo.com,Logged In,4,Customer
+125,105,"Electronics",2023-10-04,100,192.168.2.22,Mobile,Chrome,Android 11,https://www.duckduckgo.com,Added to Wishlist,2,Interested
+126,107,"Electronics",2023-10-05,120,10.0.0.25,Desktop,Firefox,Windows 10,https://www.example.com,Logged In,6,Customer
+127,109,"Home Appliances",2023-10-06,160,192.168.0.20,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,4,Customer
+128,108,"Fashion",2023-10-07,170,192.168.1.33,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,5,Interested
+129,110,"Electronics",2023-10-08,95,192.168.2.23,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+130,111,"Fashion",2023-10-09,110,192.168.1.34,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Cart,6,Customer
+131,113,"Home Appliances",2023-10-10,130,10.0.0.26,Desktop,Chrome,Windows 10,https://www.duckduckgo.com,Logged In,2,Interested
+132,112,"Electronics",2023-10-11,75,192.168.1.35,Mobile,Safari,iOS 15,https://www.example.com,Viewed Product,8,Interested
+133,114,"Fashion",2023-10-12,200,192.168.2.24,Tablet,Firefox,Android 12,https://www.google.com,Added to Wishlist,5,Customer
+134,116,"Electronics",2023-10-13,180,192.168.1.36,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+135,115,"Fashion",2023-10-14,105,192.168.0.21,Mobile,Chrome,Android 11,https://www.yahoo.com,Added to Cart,4,Interested
+136,117,"Electronics",2023-10-15,95,192.168.1.37,Desktop,Firefox,Windows 10,https://www.duckduckgo.com,Logged In,6,Customer
+137,119,"Home Appliances",2023-10-16,120,10.0.0.27,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,2,Customer
+138,118,"Fashion",2023-10-17,160,192.168.1.38,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,7,Interested
+139,120,"Electronics",2023-10-18,85,192.168.2.25,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+140,121,"Fashion",2023-10-19,130,192.168.1.39,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Wishlist,5,Interested
+141,123,"Electronics",2023-10-20,120,192.168.1.40,Desktop,Chrome,Windows 10,https://www.google.com,Logged In,5,Customer
+142,125,"Fashion",2023-10-21,160,10.0.0.28,Mobile,Safari,iOS 15,https://www.example.com,Added to Cart,3,Interested
+143,122,"Home Appliances",2023-10-22,90,172.16.0.7,Tablet,Firefox,Android 12,https://www.bing.com,Viewed Product,7,Interested
+144,121,"Electronics",2023-10-23,120,192.168.0.22,Desktop,Edge,Windows 11,https://www.yahoo.com,Logged In,4,Customer
+145,124,"Fashion",2023-10-24,140,192.168.2.26,Mobile,Chrome,Android 11,https://www.duckduckgo.com,Added to Wishlist,2,Interested
+146,126,"Electronics",2023-10-25,110,10.0.0.29,Desktop,Firefox,Windows 10,https://www.example.com,Logged In,6,Customer
+147,128,"Home Appliances",2023-10-26,180,192.168.0.23,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,4,Customer
+148,127,"Fashion",2023-10-27,190,192.168.1.41,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,5,Interested
+149,129,"Electronics",2023-10-28,95,192.168.2.27,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+150,130,"Fashion",2023-10-29,110,192.168.1.42,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Cart,6,Customer
+151,132,"Home Appliances",2023-10-30,170,10.0.0.30,Desktop,Chrome,Windows 10,https://www.duckduckgo.com,Logged In,2,Interested
+152,131,"Electronics",2023-10-31,75,192.168.1.43,Mobile,Safari,iOS 15,https://www.example.com,Viewed Product,8,Interested
+153,133,"Fashion",2023-11-01,200,192.168.2.28,Tablet,Firefox,Android 12,https://www.google.com,Added to Wishlist,5,Customer
+154,135,"Electronics",2023-11-02,180,192.168.1.44,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+155,134,"Fashion",2023-11-03,105,192.168.0.24,Mobile,Chrome,Android 11,https://www.yahoo.com,Added to Cart,4,Interested
+156,136,"Electronics",2023-11-04,95,192.168.1.45,Desktop,Firefox,Windows 10,https://www.duckduckgo.com,Logged In,6,Customer
+157,138,"Home Appliances",2023-11-05,120,10.0.0.31,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,2,Customer
+158,137,"Fashion",2023-11-06,160,192.168.1.46,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,7,Interested
+159,139,"Electronics",2023-11-07,85,192.168.2.29,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+160,140,"Fashion",2023-11-08,130,192.168.1.47,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Wishlist,5,Interested
+161,142,"Electronics",2023-11-09,160,10.0.0.32,Desktop,Chrome,Windows 10,https://www.google.com,Logged In,5,Customer
+162,144,"Home Appliances",2023-11-10,180,10.0.0.33,Mobile,Safari,iOS 15,https://www.example.com,Added to Cart,3,Interested
+163,141,"Electronics",2023-11-11,90,172.16.0.8,Tablet,Firefox,Android 12,https://www.bing.com,Viewed Product,7,Interested
+164,143,"Fashion",2023-11-12,150,192.168.0.25,Desktop,Edge,Windows 11,https://www.yahoo.com,Logged In,4,Customer
+165,145,"Electronics",2023-11-13,100,192.168.2.30,Mobile,Chrome,Android 11,https://www.duckduckgo.com,Added to Wishlist,2,Interested
+166,147,"Electronics",2023-11-14,120,10.0.0.34,Desktop,Firefox,Windows 10,https://www.example.com,Logged In,6,Customer
+167,149,"Home Appliances",2023-11-15,160,192.168.0.26,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,4,Customer
+168,148,"Fashion",2023-11-16,170,192.168.1.48,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,5,Interested
+169,150,"Electronics",2023-11-17,95,192.168.2.31,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+170,151,"Fashion",2023-11-18,110,192.168.1.49,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Cart,6,Customer
+171,153,"Home Appliances",2023-11-19,130,10.0.0.35,Desktop,Chrome,Windows 10,https://www.duckduckgo.com,Logged In,2,Interested
+172,152,"Electronics",2023-11-20,75,192.168.1.50,Mobile,Safari,iOS 15,https://www.example.com,Viewed Product,8,Interested
+173,154,"Fashion",2023-11-21,200,192.168.2.32,Tablet,Firefox,Android 12,https://www.google.com,Added to Wishlist,5,Customer
+174,156,"Electronics",2023-11-22,180,192.168.1.51,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+175,155,"Fashion",2023-11-23,105,192.168.0.27,Mobile,Chrome,Android 11,https://www.yahoo.com,Added to Cart,4,Interested
+176,157,"Electronics",2023-11-24,95,192.168.1.52,Desktop,Firefox,Windows 10,https://www.duckduckgo.com,Logged In,6,Customer
+177,159,"Home Appliances",2023-11-25,120,10.0.0.36,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,2,Customer
+178,158,"Fashion",2023-11-26,160,192.168.1.53,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,7,Interested
+179,160,"Electronics",2023-11-27,85,192.168.2.33,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+180,161,"Fashion",2023-11-28,130,192.168.1.54,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Wishlist,5,Interested
+181,163,"Electronics",2023-12-01,120,192.168.1.55,Desktop,Chrome,Windows 10,https://www.google.com,Logged In,5,Customer
+182,165,"Fashion",2023-12-02,160,10.0.0.37,Mobile,Safari,iOS 15,https://www.example.com,Added to Cart,3,Interested
+183,162,"Home Appliances",2023-12-03,90,172.16.0.9,Tablet,Firefox,Android 12,https://www.bing.com,Viewed Product,7,Interested
+184,161,"Electronics",2023-12-04,120,192.168.0.28,Desktop,Edge,Windows 11,https://www.yahoo.com,Logged In,4,Customer
+185,164,"Fashion",2023-12-05,140,192.168.2.34,Mobile,Chrome,Android 11,https://www.duckduckgo.com,Added to Wishlist,2,Interested
+186,166,"Electronics",2023-12-06,110,10.0.0.38,Desktop,Firefox,Windows 10,https://www.example.com,Logged In,6,Customer
+187,168,"Home Appliances",2023-12-07,180,192.168.0.29,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,4,Customer
+188,167,"Fashion",2023-12-08,190,192.168.1.56,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,5,Interested
+189,169,"Electronics",2023-12-09,95,192.168.2.35,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+190,170,"Fashion",2023-12-10,110,192.168.1.57,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Cart,6,Customer
+191,172,"Home Appliances",2023-12-11,170,10.0.0.39,Desktop,Chrome,Windows 10,https://www.duckduckgo.com,Logged In,2,Interested
+192,171,"Electronics",2023-12-12,75,192.168.1.58,Mobile,Safari,iOS 15,https://www.example.com,Viewed Product,8,Interested
+193,173,"Fashion",2023-12-13,200,192.168.2.36,Tablet,Firefox,Android 12,https://www.google.com,Added to Wishlist,5,Customer
+194,175,"Electronics",2023-12-14,180,192.168.1.59,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+195,174,"Fashion",2023-12-15,105,192.168.0.30,Mobile,Chrome,Android 11,https://www.yahoo.com,Added to Cart,4,Interested
+196,176,"Electronics",2023-12-16,95,192.168.1.60,Desktop,Firefox,Windows 10,https://www.duckduckgo.com,Logged In,6,Customer
+197,178,"Home Appliances",2023-12-17,120,10.0.0.40,Mobile,Safari,iOS 14,https://www.example.com,Added to Cart,2,Customer
+198,177,"Fashion",2023-12-18,160,192.168.1.61,Tablet,Chrome,Android 12,https://www.google.com,Viewed Product,7,Interested
+199,179,"Electronics",2023-12-19,85,192.168.2.37,Desktop,Edge,Windows 11,https://www.bing.com,Logged In,3,Customer
+200,180,"Fashion",2023-12-20,130,192.168.1.62,Mobile,Firefox,Android 11,https://www.yahoo.com,Added to Wishlist,5,Interested
